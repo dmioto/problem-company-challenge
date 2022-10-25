@@ -1,0 +1,2 @@
+- All /customer endpoints were renamed to /user
+- Added a DELETE endpoint /user/{id} to delete a Customer

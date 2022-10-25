@@ -1,0 +1,2 @@
+
+- Added a hash function to map the raw Customer password to a encrypted password in the Postgres
